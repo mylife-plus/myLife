@@ -14,4 +14,4 @@ assignees: ''
 [Support Material](link)
 
 ## Bounty-Price
-$? ETA ?h
+$? / ETA ?h

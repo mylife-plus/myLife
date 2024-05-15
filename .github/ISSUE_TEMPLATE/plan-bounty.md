@@ -1,7 +1,7 @@
 ---
 name: Plan Bounty
 about: 'bounty of a plan '
-title: 'Label: Description'
+title: 'Label: Description / ?h / $?'
 labels: ''
 assignees: ''
 
